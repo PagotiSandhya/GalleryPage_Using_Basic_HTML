@@ -1,1 +1,1 @@
-# GalleryPage_Using_Basic_HTML
+# GalleryPage_for_TurismSite_Using_Basic_HTML
